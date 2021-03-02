@@ -5,6 +5,14 @@
 [1]: https://pypi.org/project/google-cloud-pubsub/#history
 
 
+### [2.4.1](https://www.github.com/googleapis/python-pubsub/compare/v2.4.0...v2.4.1) (2021-03-02)
+
+
+### Bug Fixes
+
+* **sample:** mitigate flakiness in subscriber_test ([#304](https://www.github.com/googleapis/python-pubsub/issues/304)) ([271a385](https://www.github.com/googleapis/python-pubsub/commit/271a3856d835967f18f6becdae5ad53d585d0ccf))
+* SSL error when using the client with the emulator ([#297](https://www.github.com/googleapis/python-pubsub/issues/297)) ([83db672](https://www.github.com/googleapis/python-pubsub/commit/83db67239d3521457138699109f766d574a0a2c4))
+
 ## 2.4.0
 
 02-22-2021 05:02 PST
